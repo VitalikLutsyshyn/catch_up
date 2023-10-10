@@ -75,3 +75,4 @@ while True:#ігровий цикл
 
 
 
+#hsjhjjashfkjhsfkjshfjksfh
